@@ -6,8 +6,9 @@
 
 The core objective of this project is to build a premium **Next.js Dashboard** where users can input an Apollo Search URL. The system then automates the backend processes using **n8n** to:
 1.  Fetch contacts from Apollo.
-2.  Enrich these contacts using a "Waterfall" method via multiple services: **LeadMagic**, **IcyPeas**, **FindyMail**, and **FullEnrich**.
-3.  Store and display the enriched data in the dashboard for export.
+2.  Enrich these contacts using a "Waterfall" method via multiple services: **LeadMagic**, **IcyPeas**, **TryKitt**, and **A-Leads**.
+3.  Final verification using: **MailVerify** and **Enrichly**
+4.  Store and display the enriched data in the dashboard for export.
 
 The project leverages **Supabase** for authentication and database management, ensuring a secure and scalable foundation.
 
