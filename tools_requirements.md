@@ -47,8 +47,10 @@ The application relies on the user providing their own API keys for these servic
 1.  **Apollo API**: For searching and fetching initial contact data.
 2.  **LeadMagic**: Enrichment Service #1.
 3.  **IcyPeas**: Enrichment Service #2.
-4.  **FindyMail**: Enrichment Service #3.
-5.  **FullEnrich**: Enrichment Service #4.
+4.  **TryKitt**: Enrichment Service #3.
+5.  **A-Leads**: Enrichment Service #4.
+6.  **MailVerify**: Verification Service #1
+7.  **Enrichley**: Verification Service #2 
 
 *Note: The system is designed to handle cases where a user might only have keys for some of these services, but for full "Waterfall" testing, access to all is ideal.*
 
